@@ -1,0 +1,114 @@
+{
+  "BOILER_BCU_AIR_VAM": [
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/BOILER_BCU_AIR_VAM/C400_Daily_Average%20(02%20Oct%202024_06%2012%2038)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/BOILER_BCU_AIR_VAM/C400_Daily_Average%20(03%20Oct%202024_06%2011%2048)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/BOILER_BCU_AIR_VAM/C400_Daily_Average%20(04%20Oct%202024_06%2011%2018)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/BOILER_BCU_AIR_VAM/C400_Daily_Average%20(05%20Oct%202024_06%2012%2053)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/BOILER_BCU_AIR_VAM/C400_Daily_Average%20(06%20Oct%202024_06%2008%2038)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/BOILER_BCU_AIR_VAM/C400_Daily_Average%20(07%20Oct%202024_06%2013%2021)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/BOILER_BCU_AIR_VAM/C400_Daily_Average%20(08%20Oct%202024_06%2003%2031)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/BOILER_BCU_AIR_VAM/C400_Daily_Average%20(09%20Oct%202024_06%2008%2026)%20.xls"
+  ],
+  "CL2_MTD": [
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/CL2_MTD/C102_Daily_Average%20(02%20Oct%202024_05%2053%2029)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/CL2_MTD/C102_Daily_Average%20(03%20Oct%202024_05%2053%2021)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/CL2_MTD/C102_Daily_Average%20(04%20Oct%202024_05%2051%2057)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/CL2_MTD/C102_Daily_Average%20(05%20Oct%202024_05%2053%2025)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/CL2_MTD/C102_Daily_Average%20(06%20Oct%202024_05%2051%2056)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/CL2_MTD/C102_Daily_Average%20(07%20Oct%202024_05%2053%2028)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/CL2_MTD/C102_Daily_Average%20(08%20Oct%202024_05%2052%2002)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/CL2_MTD/C102_Daily_Average%20(09%20Oct%202024_05%2051%2056)%20.xls"
+  ],
+  "COLDBOX_COCOMP_INCIN": [
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/COLDBOX_COCOMP_INCIN/C302_Daily_Average%20(02%20Oct%202024_06%2009%2050)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/COLDBOX_COCOMP_INCIN/C302_Daily_Average%20(03%20Oct%202024_06%2009%2006)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/COLDBOX_COCOMP_INCIN/C302_Daily_Average%20(04%20Oct%202024_06%2008%2036)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/COLDBOX_COCOMP_INCIN/C302_Daily_Average%20(05%20Oct%202024_06%2010%2012)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/COLDBOX_COCOMP_INCIN/C302_Daily_Average%20(06%20Oct%202024_06%2004%2051)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/COLDBOX_COCOMP_INCIN/C302_Daily_Average%20(07%20Oct%202024_06%2010%2037)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/COLDBOX_COCOMP_INCIN/C302_Daily_Average%20(08%20Oct%202024_06%2001%2049)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/COLDBOX_COCOMP_INCIN/C302_Daily_Average%20(09%20Oct%202024_06%2006%2047)%20.xls"
+  ],
+  "DM_CPU_N2_FLARE": [
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DM_CPU_N2_FLARE/C401_Daily_Average%20(02%20Oct%202024_06%2015%2049)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DM_CPU_N2_FLARE/C401_Daily_Average%20(03%20Oct%202024_06%2014%2050)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DM_CPU_N2_FLARE/C401_Daily_Average%20(04%20Oct%202024_06%2013%2011)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DM_CPU_N2_FLARE/C401_Daily_Average%20(05%20Oct%202024_06%2015%2054)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DM_CPU_N2_FLARE/C401_Daily_Average%20(06%20Oct%202024_06%2012%2051)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DM_CPU_N2_FLARE/C401_Daily_Average%20(07%20Oct%202024_06%2016%2026)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DM_CPU_N2_FLARE/C401_Daily_Average%20(08%20Oct%202024_06%2005%2028)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DM_CPU_N2_FLARE/C401_Daily_Average%20(09%20Oct%202024_06%2012%2044)%20.xls"
+  ],
+  "DNT_SAC_STRG": [
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DNT_SAC_STRG/C101_Daily_Average%20(02%20Oct%202024_05%2050%2003)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DNT_SAC_STRG/C101_Daily_Average%20(03%20Oct%202024_05%2050%2003)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DNT_SAC_STRG/C101_Daily_Average%20(04%20Oct%202024_05%2050%2003)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DNT_SAC_STRG/C101_Daily_Average%20(05%20Oct%202024_05%2050%2004)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DNT_SAC_STRG/C101_Daily_Average%20(06%20Oct%202024_05%2050%2004)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DNT_SAC_STRG/C101_Daily_Average%20(07%20Oct%202024_05%2050%2004)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DNT_SAC_STRG/C101_Daily_Average%20(08%20Oct%202024_05%2050%2004)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DNT_SAC_STRG/C101_Daily_Average%20(09%20Oct%202024_05%2050%2003)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DNT_SAC_STRG/2021/2021_08/C101_Daily_Average%20-%20Copy%20(16%20Aug%202021_13%2036%2009)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/DNT_SAC_STRG/2021/2021_08/C101_Daily_Average%20-%20Copy%20(16%20Aug%202021_14%2010%2008)%20.xls"
+  ],
+  "ETP_TDISTRG": [
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/ETP_TDISTRG/C402_Daily_Average%20(02%20Oct%202024_06%2017%2026)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/ETP_TDISTRG/C402_Daily_Average%20(03%20Oct%202024_06%2016%2024)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/ETP_TDISTRG/C402_Daily_Average%20(04%20Oct%202024_06%2014%2014)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/ETP_TDISTRG/C402_Daily_Average%20(05%20Oct%202024_06%2017%2027)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/ETP_TDISTRG/C402_Daily_Average%20(06%20Oct%202024_06%2013%2052)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/ETP_TDISTRG/C402_Daily_Average%20(07%20Oct%202024_06%2018%2000)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/ETP_TDISTRG/C402_Daily_Average%20(08%20Oct%202024_06%2006%2033)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/ETP_TDISTRG/C402_Daily_Average%20(09%20Oct%202024_06%2014%2050)%20.xls"
+  ],
+  "LIST II_NEW 72": [
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST%20II_NEW%2072/C203_Daily_Average%20%20(02%20Oct%202024_06%2004%2006)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST%20II_NEW%2072/C203_Daily_Average%20%20(03%20Oct%202024_06%2003%2037)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST%20II_NEW%2072/C203_Daily_Average%20%20(04%20Oct%202024_06%2001%2039)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST%20II_NEW%2072/C203_Daily_Average%20%20(05%20Oct%202024_06%2004%2044)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST%20II_NEW%2072/C203_Daily_Average%20%20(06%20Oct%202024_05%2057%2057)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST%20II_NEW%2072/C203_Daily_Average%20%20(07%20Oct%202024_06%2004%2059)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST%20II_NEW%2072/C203_Daily_Average%20%20(08%20Oct%202024_05%2058%2016)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST%20II_NEW%2072/C203_Daily_Average%20%20(09%20Oct%202024_06%2003%2019)%20.xls"
+  ],
+  "LIST_HCL_SCRUB": [
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST_HCL_SCRUB/C202_Daily_Average%20(02%20Oct%202024_06%2001%2011)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST_HCL_SCRUB/C202_Daily_Average%20(03%20Oct%202024_06%2000%2048)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST_HCL_SCRUB/C202_Daily_Average%20(04%20Oct%202024_05%2056%2022)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST_HCL_SCRUB/C202_Daily_Average%20(05%20Oct%202024_06%2001%2053)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST_HCL_SCRUB/C202_Daily_Average%20(06%20Oct%202024_05%2056%2018)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST_HCL_SCRUB/C202_Daily_Average%20(07%20Oct%202024_06%2002%2004)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST_HCL_SCRUB/C202_Daily_Average%20(08%20Oct%202024_05%2056%2033)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/LIST_HCL_SCRUB/C202_Daily_Average%20(09%20Oct%202024_05%2059%2013)%20.xls"
+  ],
+  "PHOS_TDI": [
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/PHOS_TDI/C201_Daily_Average_1%20(02%20Oct%202024_05%2056%2027)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/PHOS_TDI/C201_Daily_Average_1%20(03%20Oct%202024_05%2056%2012)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/PHOS_TDI/C201_Daily_Average_1%20(04%20Oct%202024_05%2053%2036)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/PHOS_TDI/C201_Daily_Average_1%20(05%20Oct%202024_05%2056%2019)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/PHOS_TDI/C201_Daily_Average_1%20(06%20Oct%202024_05%2053%2035)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/PHOS_TDI/C201_Daily_Average_1%20(07%20Oct%202024_05%2056%2026)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/PHOS_TDI/C201_Daily_Average_1%20(08%20Oct%202024_05%2053%2044)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/PHOS_TDI/C201_Daily_Average_1%20(09%20Oct%202024_05%2053%2035)%20.xls"
+  ],
+  "REFORM_CO2_H2_COMP": [
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/REFORM_CO2_H2_COMP/C301_Daily_Average%20(02%20Oct%202024_06%2005%2055)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/REFORM_CO2_H2_COMP/C301_Daily_Average%20(03%20Oct%202024_06%2005%2023)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/REFORM_CO2_H2_COMP/C301_Daily_Average%20(04%20Oct%202024_06%2003%2026)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/REFORM_CO2_H2_COMP/C301_Daily_Average%20(05%20Oct%202024_06%2006%2030)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/REFORM_CO2_H2_COMP/C301_Daily_Average%20(06%20Oct%202024_05%2059%2043)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/REFORM_CO2_H2_COMP/C301_Daily_Average%20(07%20Oct%202024_06%2006%2049)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/REFORM_CO2_H2_COMP/C301_Daily_Average%20(08%20Oct%202024_05%2059%2025)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/REFORM_CO2_H2_COMP/C301_Daily_Average%20(09%20Oct%202024_06%2004%2026)%20.xls"
+  ],
+  "TDI": [
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/TDI/C201_Daily_Average_2%20(02%20Oct%202024_05%2058%2048)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/TDI/C201_Daily_Average_2%20(03%20Oct%202024_05%2058%2029)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/TDI/C201_Daily_Average_2%20(04%20Oct%202024_05%2054%2059)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/TDI/C201_Daily_Average_2%20(05%20Oct%202024_05%2059%2032)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/TDI/C201_Daily_Average_2%20(06%20Oct%202024_05%2054%2058)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/TDI/C201_Daily_Average_2%20(07%20Oct%202024_05%2059%2040)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/TDI/C201_Daily_Average_2%20(08%20Oct%202024_05%2055%2008)%20.xls",
+    "http://esrvtdidhj/reports/DCS/Daily%20Monthly%20Reports/Daily_Avg/TDI/C201_Daily_Average_2%20(09%20Oct%202024_05%2055%2054)%20.xls"
+  ]
+}
